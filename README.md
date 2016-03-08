@@ -1,2 +1,2 @@
 # hello-world
-This is the Hello World doc
+This is the Hello World README.
